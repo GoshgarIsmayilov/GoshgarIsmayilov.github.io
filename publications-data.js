@@ -11,7 +11,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "arxiv": "https://arxiv.org/pdf/2606.27092"
       },
-      "thumbnail": "images/thumbs/17.jpg"
+      "thumbnail": "images/thumbs/17.png"
     },
     {
       "title": "Agent-as-an-Asset: a virtual marketplace on blockchain for distributed agentic workflows",
@@ -24,7 +24,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=tr&as_sdt=0,5&q=Agent-as-an-Asset:+A+Virtual+Marketplace+on+Blockchain+for+Distributed+Agentic+Workflows&btnG="
       },
-      "thumbnail": "images/thumbs/6.jpg"
+      "thumbnail": "images/thumbs/6.png"
     },
     {
       "title": "PMTBS: a blockchain-based privacy-preserving multi-token ascending barter auction system with zero-knowledge proofs",
@@ -38,7 +38,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=tr&as_sdt=0,5&q=PMTBS:+A+Blockchain-Based+Privacy-Preserving+Multi-Token+Ascending+Barter+Auction+System+with+Zero-Knowledge+Proofs&btnG="
       },
-      "thumbnail": "images/thumbs/1.jpg"
+      "thumbnail": "images/thumbs/1.png"
     },
     {
       "title": "Exploring privacy in blockchain through ZoKrates: fundamentals, applications and future directions",
@@ -64,7 +64,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=tr&as_sdt=0,5&q=Towards+DevOps+of+Zero-Knowledge+Proofs+on+Blockchain:+LLM-Enhanced+Proof+Generation+and+Contract+Deployment&btnG="
       },
-      "thumbnail": "images/thumbs/7.jpg"
+      "thumbnail": "images/thumbs/7.png"
     },
     {
       "title": "zkEC@0.0.1: evolutionary computation meets programmable cryptography on blockchain",
@@ -105,7 +105,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "pdf": "https://ceur-ws.org/Vol-4105/short03.pdf"
       },
-      "thumbnail": "images/thumbs/8.jpg"
+      "thumbnail": "images/thumbs/8.png"
     },
     {
       "title": "Decentralized privacy-preserving collective and multi-objective trading protocols on blockchain with zero-knowledge proofs",
@@ -118,7 +118,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "thesis": "https://www.proquest.com/openview/d566c613eeb8677669050b21311b7ef4/1?pq-origsite=gscholar&cbl=18750&diss=y"
       },
-      "thumbnail": "images/thumbs/15.jpg"
+      "thumbnail": "images/thumbs/15.png"
     },
     {
       "title": "PTTS: zero-knowledge proof-based private token transfer system on Ethereum blockchain",
@@ -146,7 +146,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Incomplete+hypercube-based+algorithms+for+privacy-preserving+data+aggregation+using+zero-knowledge+proofs&btnG="
       },
-      "thumbnail": "images/thumbs/10.jpg"
+      "thumbnail": "images/thumbs/10.png"
     },
     {
       "title": "PRFX: a privacy-preserving prefix summation protocol on blockchain with zero-knowledge proof",
@@ -160,7 +160,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=PRFX:+a+privacy-preserving+prefix+summation+protocol+on+blockchain+with+zero-knowledge+proof&btnG="
       },
-      "thumbnail": "images/thumbs/11.jpg"
+      "thumbnail": "images/thumbs/11.png"
     },
     {
       "title": "Automated non-branching protrusion design with evolutionary algorithm in communication via diffusion",
@@ -187,7 +187,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Multi-criteria+evaluation+of+publication+impacts:+deep+learning+in+autonomous+vehicles&btnG="
       },
-      "thumbnail": "images/thumbs/12.jpg"
+      "thumbnail": "images/thumbs/12.png"
     },
     {
       "title": "Protrusion location optimization in communication via diffusion",
@@ -200,7 +200,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Protrusion+location+optimization+in+communication+via+diffusion&btnG="
       },
-      "thumbnail": "images/thumbs/13.jpg"
+      "thumbnail": "images/thumbs/13.png"
     },
     {
       "title": "Neural network based multi-objective evolutionary algorithm for dynamic workflow scheduling in cloud computing",
@@ -214,7 +214,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "doi": "https://www.sciencedirect.com/science/article/abs/pii/S0167739X19306983"
       },
-      "thumbnail": "images/thumbs/5.jpg"
+      "thumbnail": "images/thumbs/5.png"
     },
     {
       "title": "Dynamic multi-objective workflow scheduling in cloud computing",
@@ -227,7 +227,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "thesis": "https://www.proquest.com/openview/10042833476af95e290ba6f92c221957"
       },
-      "thumbnail": "images/thumbs/16.jpg"
+      "thumbnail": "images/thumbs/16.png"
     },
     {
       "title": "Dynamic multi-objective workflow scheduling for cloud computing based on evolutionary algorithms",
