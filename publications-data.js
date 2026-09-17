@@ -173,7 +173,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Automated+non-branching+protrusion+design+with+evolutionary+algorithm+in+communication+via+diffusion&btnG="
       },
-      "thumbnail": "images/thumbs/4.jpg"
+      "thumbnail": "images/thumbs/4.png"
     },
     {
       "title": "Multi-criteria evaluation of publication impacts: deep learning in autonomous vehicles",
@@ -241,7 +241,7 @@ const PUBLICATIONS_DATA = {
       "links": {
         "scholar": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Dynamic+multi-objective+workflow+scheduling+for+cloud+computing+based+on+evolutionary+algorithms&btnG="
       },
-      "thumbnail": "images/thumbs/14.jpg"
+      "thumbnail": "images/thumbs/14.png"
     }
   ]
 };
