@@ -1,6 +1,19 @@
 const PUBLICATIONS_DATA = {
   "publications": [
-        {
+    {
+      "title": "MAWCS: a multi-agent workflow scheduling framework for heterogeneous models and cloud resources",
+      "authors": [
+        "G. C. Ismayilov"
+      ],
+      "venue": "SymGenAI4Sci Workshop at SEMANTiCS 2026: 22nd International Conference on Semantic Systems, Belgium (2026)",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "scholar": "https://scholar.google.com/scholar?hl=tr&as_sdt=0,5&q=MAWCS:+A+Multi-Agent+Workflow+Scheduling+Framework+for+Heterogeneous+Models+and+Cloud+Resources&btnG="
+      },
+      "thumbnail": "images/thumbs/19.png"
+    },
+    {
       "title": "zQR: a verifiable QR-driven zkSNARK proof verification framework for mobile platforms",
       "authors": [
         "G. C. Ismayilov"
